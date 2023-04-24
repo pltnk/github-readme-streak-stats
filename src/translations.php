@@ -80,6 +80,7 @@ return [
         "Week Streak" => "Wochenserie",
         "Longest Week Streak" => "Längste Wochenserie",
         "Present" => "Heute",
+        "Excluding" => "Ausgenommen",
     ],
     "el" => [
         "Total Contributions" => "Συνολικές Συνεισφορές",
@@ -180,6 +181,7 @@ return [
         "Week Streak" => "ವಾರದ ಸ್ಟ್ರೀಕ್",
         "Longest Week Streak" => "ಅತ್ಯಧಿಕ ವಾರದ ಸ್ಟ್ರೀಕ್",
         "Present" => "ಪ್ರಸ್ತುತ",
+        "Excluding" => "ಹೊರತುಪಡಿಸಿ",
     ],
     "ko" => [
         "Total Contributions" => "총 기여 수",
@@ -293,6 +295,7 @@ return [
         "Week Streak" => "Діяльність за тиждень",
         "Longest Week Streak" => "Найбільша к-сть тижнів",
         "Present" => "Наразі",
+        "Excluding" => "Виключаючи",
     ],
     "ur_PK" => [
         "rtl" => true,
@@ -302,6 +305,7 @@ return [
         "Week Streak" => "ہفتہ وار تسلسل",
         "Longest Week Streak" => "طویل ترین ہفتہ وار تسلسل",
         "Present" => "حاظر",
+        "Excluding" => "خارج",
     ],
     "vi" => [
         "Total Contributions" => "Tổng số đóng góp",
