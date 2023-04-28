@@ -40,6 +40,15 @@ return [
         "Excluding" => "Excluding",
     ],
     // Locales below are sorted alphabetically
+    "am" => [
+        "Total Contributions" => "ጠቅላላ አስተዋጽዖዎች",
+        "Current Streak" => "የአሁን ድግግሞሽ",
+        "Longest Streak" => "በጣም ረጅሙ ድግግሞሽ",
+        "Week Streak" => "የሳምንት ድግግሞሽ",
+        "Longest Week Streak" => "በጣም ረጅሙ የሳምንት ድግግሞሽ",
+        "Present" => "ያሁኑ",
+        "Excluding" => "ሳይጨምር",
+    ],
     "ar" => [
         "rtl" => true,
         "Total Contributions" => "إجمالي المساهمات",
@@ -89,6 +98,7 @@ return [
         "Week Streak" => "Εβδομαδιαία Σειρά",
         "Longest Week Streak" => "Μεγαλύτερη Εβδομαδιαία Σειρά",
         "Present" => "Σήμερα",
+        "Excluding" => "Εξαιρούνται",
     ],
     "es" => [
         "Total Contributions" => "Contribuciones Totales",
@@ -255,6 +265,15 @@ return [
         "Week Streak" => "निरन्तरसप्ताहाः",
         "Longest Week Streak" => "दीर्घतमाः निरन्तरसप्ताहाः",
         "Present" => "वर्तमान",
+    ],
+    "sr" => [
+        "Total Contributions" => "Укупно додавања",
+        "Current Streak" => "Тренутна серија",
+        "Longest Streak" => "Најдужа серија",
+        "Week Streak" => "Недељна серија",
+        "Longest Week Streak" => "Најдужа недељена серија",
+        "Present" => "Данас",
+        "Excluding" => "Искључујући",
     ],
     "sv" => [
         "Total Contributions" => "Totalt antal uppladningar",
