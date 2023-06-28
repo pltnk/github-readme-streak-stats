@@ -163,6 +163,15 @@ return [
         "Longest Week Streak" => "pi long tras semèn",
         "Present" => "Prezan",
     ],
+    "hu" => [
+        "Total Contributions" => "Összes hozzájárulás",
+        "Current Streak" => "Jelenlegi sorozat",
+        "Longest Streak" => "Leghosszabb sorozat",
+        "Week Streak" => "Heti sorozat",
+        "Longest Week Streak" => "Leghosszabb heti sorozat",
+        "Present" => "Jelen",
+        "Excluding" => "Kivéve",
+    ],
     "hy" => [
         "Total Contributions" => "Ընդհանուր\nներդրումը",
         "Current Streak" => "Ընթացիկ շարք",
@@ -178,6 +187,7 @@ return [
         "Week Streak" => "Aksi Mingguan",
         "Longest Week Streak" => "Aksi Mingguan Terpanjang",
         "Present" => "Sekarang",
+        "Excluding" => "Tidak termasuk",
     ],
     "it" => [
         "Total Contributions" => "Contributi Totali",
@@ -259,7 +269,7 @@ return [
         "Present" => "اوس",
     ],
     "pt_BR" => [
-        "Total Contributions" => "Contribuições Totais",
+        "Total Contributions" => "Total de Contribuições",
         "Current Streak" => "Sequência Atual",
         "Longest Streak" => "Maior Sequência",
         "Week Streak" => "Sequência Semanal",
@@ -331,6 +341,7 @@ return [
         "Week Streak" => "Haftalık Seri",
         "Longest Week Streak" => "En Uzun Haftalık Seri",
         "Present" => "Şu an",
+        "Excluding" => "Hariç",
     ],
     "uk" => [
         "Total Contributions" => "Загальний вклад",
@@ -367,6 +378,7 @@ return [
         "Week Streak" => "ṣiṣan ọsẹ",
         "Longest Week Streak" => "gunjulo ọsẹ ṣiṣan",
         "Present" => "lọwọlọwọ",
+        "Excluding" => "Yato si",
     ],
     "zh" => "zh_Hans",
     "zh_Hans" => [
