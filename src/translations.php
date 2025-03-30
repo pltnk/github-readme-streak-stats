@@ -72,6 +72,15 @@ return [
         "Longest Week Streak" => "Най-дълга седмична серия",
         "Present" => "Сега",
     ],
+    "bho" => [
+        "Total Contributions" => "कुल योगदान",
+        "Current Streak" => "चालू रोजाना योगदान",
+        "Longest Streak" => "सबसे लंबा रोजाना योगदान",
+        "Week Streak" => "सप्ताहिक योगदान",
+        "Longest Week Streak" => "सबसे लंबा सप्ताहिक योगदान",
+        "Present" => "आज ले",
+        "Excluding {days}" => "{days} के छोड़के",
+    ],
     "bn" => [
         "Total Contributions" => "মোট অবদান",
         "Current Streak" => "কারেন্ট স্ট্রীক",
@@ -223,7 +232,7 @@ return [
         "Week Streak" => "Aksi Mingguan",
         "Longest Week Streak" => "Aksi Mingguan Terpanjang",
         "Present" => "Sekarang",
-        "Excluding {days}" => "Tidak termasuk {days}",
+        "Excluding {days}" => "Kecuali {days}",
     ],
     "it" => [
         "Total Contributions" => "Contributi Totali",
@@ -266,11 +275,11 @@ return [
     "ko" => [
         "Total Contributions" => "총 기여 수",
         "Current Streak" => "현재 연속 기여 수",
-        "Longest Streak" => "최대 연속 기여 수",
-        "Week Streak" => "주간 기여 수",
-        "Longest Week Streak" => "최대 주간 기여 수",
+        "Longest Streak" => "최장 연속 기여 수",
+        "Week Streak" => "주간 연속 기여 수",
+        "Longest Week Streak" => "최장 주간 연속 기여 수",
         "Present" => "현재",
-        "Excluding {days}" => "{days} 제외된",
+        "Excluding {days}" => "{days} 제외하고",
     ],
     "mr" => [
         "Total Contributions" => "एकूण योगदान",
@@ -288,7 +297,7 @@ return [
         "Week Streak" => "Tindakan Setiap Minggu",
         "Longest Week Streak" => "Tindakan Setiap Minggu Terpanjang",
         "Present" => "Sekarang",
-        "Excluding {days}" => "Mengecualikan {days}",
+        "Excluding {days}" => "Kecuali {days}",
     ],
     "my" => [
         "Total Contributions" => "စုစုပေါင်း ပံ့ပိုးမှုများ",
