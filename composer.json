@@ -12,6 +12,16 @@
   "license": "MIT",
   "version": "1.5.0",
   "homepage": "https://github.com/DenverCoder1/github-readme-streak-stats",
+  "repositories": [
+      {
+          "type": "vcs",
+          "url": "https://github.com/DenverCoder1/github-readme-streak-stats"
+      }
+  ],
+  "support": {
+    "issues": "https://github.com/DenverCoder1/github-readme-streak-stats/issues",
+    "source": "https://github.com/DenverCoder1/github-readme-streak-stats"
+  },
   "autoload": {
     "classmap": [
       "src/"
@@ -31,7 +41,7 @@
       "php -S localhost:8000 -t src"
     ],
     "test": "./vendor/bin/phpunit --testdox tests",
-    "lint": "prettier --check *.md **/*.{php,md,js,css} !**/*.min.js --print-width 120",
-    "lint-fix": "prettier --write *.md **/*.{php,md,js,css} !**/*.min.js --print-width 120"
+    "lint": "npx prettier --check *.md **/*.{php,md,js,css}",
+    "lint-fix": "npx prettier --write *.md **/*.{php,md,js,css}"
   }
 }
