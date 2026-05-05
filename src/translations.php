@@ -164,6 +164,15 @@ return [
         "Excluding {days}" => "{days} مستثنی کردن",
         "comma_separator" => "، ",
     ],
+    "fi" => [
+        "Total Contributions" => "Kaikki julkaisut yhteensä",
+        "Current Streak" => "Nykyinen sarja",
+        "Longest Streak" => "Pisin sarja",
+        "Week Streak" => "Viikon sarja",
+        "Longest Week Streak" => "Pisin viikon sarja",
+        "Present" => "Nykyisin",
+        "Excluding {days}" => "Pois lukien {days}",
+    ],
     "fil" => [
         "Total Contributions" => "Kabuuang Kontribusyon",
         "Current Streak" => "Kasalukuyang Streak",
@@ -272,6 +281,15 @@ return [
         "Longest Week Streak" => "Tumindak Saben Minggu Paling Dawa",
         "Present" => "Saiki",
         "Excluding {days}" => "Ora kelebu {days}",
+    ],
+    "kk" => [
+        "Total Contributions" => "Жалпы үлес",
+        "Current Streak" => "Ағымдағы серия",
+        "Longest Streak" => "Ең ұзақ серия",
+        "Week Streak" => "Апталық серия",
+        "Longest Week Streak" => "Ең ұзақ апталық серия",
+        "Present" => "Қазір",
+        "Excluding {days}" => "{days} қоспағанда",
     ],
     "kn" => [
         "Total Contributions" => "ಒಟ್ಟು ಕೊಡುಗೆ",
